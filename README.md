@@ -1,2 +1,2 @@
-# AtlasOfShadows-website
-The landing page for the upcoming project AtlasOfShadows
+# terminaltitans
+A landing page for the future discord/website page of Terminal Titans
