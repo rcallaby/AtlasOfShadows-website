@@ -88,6 +88,20 @@
       padding: 10px;
     }
   }
+
+  #background-fader {
+    position: fixed;
+    inset: 0;
+    z-index: -1;
+
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+
+    opacity: 1;
+    transition: opacity 2s ease-in-out;
+}
   
   
   @media (max-height: 600px) {
@@ -109,3 +123,4 @@
       display: none;
     }
   }
+
